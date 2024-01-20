@@ -9,5 +9,10 @@ Summary created by extracting data from CSV
 
 #### Knowledge
 - Understanding the python excel code (pandas, win32com, openpyxl)
-- 
--
+  - Each library has a limitation of compatibility with each othe
+- Using openpyxl to put CSV data in xlsx
+  - It was a necessary library to overwrite the existing sheet
+- Enable Excel function with win32com
+  - Need to run actual apps using Excel function
+- Extract a sheet as txt with pandas
+  - 
