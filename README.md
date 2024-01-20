@@ -9,5 +9,5 @@ Summary created by extracting data from CSV
 
 #### Knowledge
 - Understanding the python excel code (pandas, win32com, openpyxl)
-  - 
+- 
 -
