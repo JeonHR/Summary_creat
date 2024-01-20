@@ -15,4 +15,5 @@ Summary created by extracting data from CSV
 - Enable Excel function with win32com
   - Need to run actual apps using Excel function
 - Extract a sheet as txt with pandas
-  - 
+  - Blank in Excel column changes the number type
+  - header=None can erase the Unname
